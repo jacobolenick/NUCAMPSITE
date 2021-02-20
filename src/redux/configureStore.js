@@ -1,6 +1,6 @@
 import { createStore, combineReducers, applyMiddleware } from "redux";
-import { Campsites } from "./campsites";
-import { Comments } from "./comments";
+import { Campsites } from "./Campsites";
+import { Comments } from "./Comments";
 import { Partners } from "./partners";
 import { Promotions } from "./promotions";
 import { InitialFeedback } from "./forms";
