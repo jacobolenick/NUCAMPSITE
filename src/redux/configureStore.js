@@ -1,8 +1,8 @@
 import { createStore, combineReducers, applyMiddleware } from "redux";
 import { Campsites } from "./Campsites";
 import { Comments } from "./Comments";
-import { Partners } from "./partners";
-import { Promotions } from "./promotions";
+import { Partners } from "./Partners";
+import { Promotions } from "./Promotions";
 import { InitialFeedback } from "./forms";
 
 import { createForms } from "react-redux-form";
